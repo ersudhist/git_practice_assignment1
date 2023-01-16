@@ -6,7 +6,7 @@ factor++;
 }
 }
 if(factor==2){
-console.log("prime number");
+ptint 
 }
 else{
-console.log("not a prime number");
+print
